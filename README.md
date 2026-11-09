@@ -23,7 +23,7 @@ For more information, please refer to the detailed explanation of the architectu
 # Project Documentation and Video
 
 - [Project Documentation](https://github.com/RAJ-SUDHARSHAN/Low-Latency-Cloud-Data-Pipeline/blob/main/AWS_Architecture_explanation_doc.pdf)
-- [Project Explanation Video](https://youtu.be/VBG1l7VI5yA)
+
 
 
 
